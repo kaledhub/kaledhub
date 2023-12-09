@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Khalid Sharahili
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React js
+- 👀 I’m interested in data analysis, data science and Web Development
+- 🌱 I’m currently learning in data science field
 - 💞️ I’m looking to collaborate on great projects
 - 📫 How to reach me https://www.linkedin.com/in/kld-sharahili/
 
